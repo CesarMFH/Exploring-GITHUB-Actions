@@ -27,4 +27,4 @@ jobs:
           pwd
       - name: Execute python script # run file
         run: |
-          python python/script.py
+          python pyhton/script.py
